@@ -157,3 +157,13 @@ The objective of this project is to demonstrate how AI and Machine Learning can 
 # 👨‍💻 Author
 
 Piyush Nandre
+
+---
+
+# Output
+
+<img width="1920" height="819" alt="1" src="https://github.com/user-attachments/assets/ef7a9713-ad84-4cee-b909-ba113cdba5f3" />
+
+<img width="1920" height="817" alt="2" src="https://github.com/user-attachments/assets/56f4d037-4fd5-4572-88d9-1d9041000b58" />
+
+<img width="1920" height="819" alt="3" src="https://github.com/user-attachments/assets/1282b4eb-a62c-4ef5-91a1-6cc501eacabd" />
