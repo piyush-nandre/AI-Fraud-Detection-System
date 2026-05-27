@@ -151,4 +151,4 @@ The objective of this project is to demonstrate how AI and Machine Learning can 
 
 # 👨‍💻 Author
 
-Developed as a portfolio-grade Machine Learning & FinTech project.
+Piyush Nandre
