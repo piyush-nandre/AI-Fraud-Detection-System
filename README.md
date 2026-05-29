@@ -151,6 +151,7 @@ The objective of this project is to demonstrate how AI and Machine Learning can 
 
 # Demo link
 
+https://youtu.be/mN7rOZ6QCOY
 
 ---
 
